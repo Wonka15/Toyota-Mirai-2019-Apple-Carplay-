@@ -54,7 +54,7 @@ The Reddit post refers to two Camry multimedia software packages:
 1. **T-SB-0057-19 — Camry Audio Plus / Premium**
 2. **2018 Camry Premium Audio**
 
-These are descriptions from the community post, not Mirai-specific Toyota firmware. This repository does not host or redistribute firmware. Verify exact archive names, contents, head-unit manufacturer, model ID, and software version from reliable sources before considering any modification. Do not proceed based only on vehicle year or a Camry label.
+These are descriptions from the community post, not Mirai-specific Toyota firmware. **Site-owner note:** I personally have copies of the two files discussed in the original guide. I am documenting that fact for transparency, but I am not offering them here as public downloads. Possessing the files does not establish Toyota approval, redistribution permission, file authenticity, or compatibility with every Mirai head unit. Verify exact archive names, contents, head-unit manufacturer, model ID, and software version before considering any modification. Do not proceed based only on vehicle year or a Camry label.
 
 ### USB preparation reported by the community
 
