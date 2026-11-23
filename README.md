@@ -11,6 +11,7 @@ This is an independent project. It is not affiliated with, sponsored by, authori
 - Factory radio, navigation, and JBL audio overview
 - Physical audio controls and ordinary Bluetooth, USB, and AUX use
 - Historical documentation of a community-reported CarPlay experiment
+- Original Toyota Mirai feature videos and an Entune App Suite retirement explainer
 - Clear separation between Toyota documentation, community claims, and owner-reported experience
 - Links to official hydrogen station and California agency resources
 
@@ -21,6 +22,28 @@ This repository is an informational research reference. It is deliberately **not
 The guide focuses on the original U.S.-market 2019 Mirai Entune 3.0 Premium Audio system and factory JBL equipment. Equipment can vary by market or vehicle configuration; consult the actual vehicle's documentation and Toyota resources.
 
 Toyota's 2019 U.S. Mirai materials referenced by this project do not list Apple CarPlay as a factory feature. Bluetooth phone/audio and other media inputs are part of the original system. A retrofit, interface module, or replacement radio is a separate aftermarket or community matter.
+
+## Entune 3.0: platform vs. retired App Suite services
+
+Entune 3.0 remains the name used for the factory multimedia platform in this generation of Toyota vehicles. That does **not** mean every original connected application remains available. Toyota U.S. says Entune App Suite services ended after October 30, 2023; some app icons may remain visible even though the services are unavailable. This retirement is distinct from ordinary head-unit functions such as AM/FM radio, Bluetooth phone/audio, USB media, and built-in navigation.
+
+Toyota's separate 3G retirement notice identifies 2016–2017 Mirai models for certain connected features. Do not assume that notice applies identically to a 2019 Mirai; verify the exact model year and feature.
+
+- [Toyota U.S. — Entune App Suite retirement FAQ](https://support.toyota.com/s/article/Toyota-App-Suite-Retirement?language=en_US)
+- [Toyota U.S. — 3G wireless services update](https://www.toyota.com/audio-multimedia/support/3g-faq/)
+
+### Original Toyota Mirai videos
+
+These official Toyota-hosted YouTube references are retained for historical context. The Entune Apps video describes an older setup experience; the app services it demonstrates are no longer generally available.
+
+| Video | Link |
+|---|---|
+| The Toyota Mirai — Driving Features | https://youtu.be/xTcltAlzx4k |
+| The Toyota Mirai — Comfort Features | https://youtu.be/WDgn7YsRYBU |
+| The Toyota Mirai — Instrument Cluster | https://youtu.be/BhSDajviCCY |
+| The Toyota Mirai — Setting Up Mirai's Entune Apps | https://youtu.be/SoJp3UjFxdo |
+
+The videos remain hosted by YouTube. This repository links to them and does not copy or re-host the video content.
 
 ## Apple CarPlay: historical community research only
 
