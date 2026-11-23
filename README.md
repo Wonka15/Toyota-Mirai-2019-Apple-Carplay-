@@ -12,6 +12,7 @@ This is an independent project. It is not affiliated with, sponsored by, authori
 - Physical audio controls and ordinary Bluetooth, USB, and AUX use
 - Historical documentation of a community-reported CarPlay experiment
 - Original Toyota Mirai feature videos and an Entune App Suite retirement explainer
+- Factory 4G LTE Wi-Fi hotspot overview, current Verizon pricing, and activation checks
 - Clear separation between Toyota documentation, community claims, and owner-reported experience
 - Links to official hydrogen station and California agency resources
 
@@ -44,6 +45,35 @@ These official Toyota-hosted YouTube references are retained for historical cont
 | The Toyota Mirai — Setting Up Mirai's Entune Apps | https://youtu.be/SoJp3UjFxdo |
 
 The videos remain hosted by YouTube. This repository links to them and does not copy or re-host the video content.
+
+
+## Factory 4G LTE Wi-Fi hotspot (Wi-Fi Connect)
+
+The U.S. 2019 Mirai brochure describes a factory 4G LTE Wi-Fi hotspot powered by Verizon. The original vehicle audio/navigation manual explains that the hotspot uses the vehicle's data communication module (DCM), is enabled through the vehicle's Wi-Fi settings, and requires a Verizon Wireless Wi-Fi Hotspot subscription for internet access.
+
+**Check before buying hardware:** In the parked vehicle, look for **MENU → Setup → Wi-Fi**. The presence of this menu does not mean the data service is active. The factory hotspot may be usable without adding an aftermarket hotspot device, if the vehicle's DCM and Verizon service are eligible.
+
+### Verizon pricing shown in its current Connected Car FAQ
+
+| Plan/account type | Published price |
+|---|---:|
+| Add Connected Car Wi-Fi to an eligible existing Verizon Unlimited plan | $20/month |
+| Add Connected Car Wi-Fi to an eligible Verizon data-only plan | $10/month |
+| Verizon Prepaid Connected Car Wi-Fi for eligible non-Verizon customers | $20/month |
+
+Prices are before applicable taxes/fees and may change. Account and vehicle eligibility apply. Verizon says **select 2018, 2019, and 2020 Toyota model-year vehicles** are currently eligible; this is not a guarantee for every vehicle. Toyota's 2019 Mirai brochure confirms the factory 4G LTE hotspot equipment, but owners should have Verizon verify the exact vehicle/DCM before subscribing.
+
+**Activation/support:** Verizon lists the Connected Vehicle app and in-vehicle connection prompts as subscription paths, and lists **866-484-9161** for Toyota/Lexus Connected Car Wi-Fi support. Ask whether the hotspot in the specific 2019 Mirai can be activated or reactivated and which plan applies. After activation, connect a phone/tablet to the vehicle Wi-Fi network and test internet access while parked.
+
+**Entune distinction:** Toyota's App Suite retirement FAQ says Wi-Fi is not impacted by the App Suite shutdown for vehicles that support Wi-Fi. This does not prove that a particular hotspot is currently active or that a new subscription will be accepted. A working hotspot provides internet to connected devices; it does not bring back discontinued Entune App Suite apps.
+
+- [Verizon — Connected Car Wi-Fi FAQ](https://www.verizon.com/support/connected-car-faqs/) — current pricing, eligible Toyota model years, enrollment, and support.
+- [Verizon — Prepaid Connected Car Wi-Fi FAQ](https://www.verizon.com/support/prepaid-connected-car-faqs/) — prepaid pricing and service conditions.
+- [Toyota — 2019 Mirai eBrochure (PDF)](https://www.refresh.tcuv.tms.aws.toyota.com/content/dam/tcuv/sections/brochures/en/mirai/2019_mirai_ebrochure.pdf) — factory 4G LTE hotspot description.
+- [2019 Mirai Audio & Navigation manual reference](https://www.carmanualsonline.info/toyota-mirai-2019-accessories-audio-navigation-in-english-5/6/) — Wi-Fi menu and Verizon subscription requirement; third-party manual host.
+- [Toyota — Entune App Suite retirement FAQ](https://support.toyota.com/s/article/Toyota-App-Suite-Retirement?language=en_US) — distinguishes App Suite retirement from Wi-Fi service.
+
+Pricing and eligibility were reviewed November 22, 2026. Verify current terms with Verizon before relying on them. Do not post your VIN, IMEI, hotspot password, or other private vehicle/account details in a public issue.
 
 ## Apple CarPlay: historical community research only
 
