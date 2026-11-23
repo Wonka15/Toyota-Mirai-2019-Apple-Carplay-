@@ -53,8 +53,8 @@ The community post specifies a **16 GB USB flash drive formatted as FAT32** (not
 
 ## Optional wireless CarPlay adapter
 
-The 2019 Mirai Quick Reference Guide identifies a USB media/AUX port for USB audio and separately identifies the console USB charge ports as charge-only. After the community software modification has successfully enabled **wired CarPlay**, a wireless CarPlay USB adapter may allow an iPhone to connect to CarPlay over Bluetooth and Wi-Fi instead of being plugged in for every trip.
+Use the **front center-console USB media/data port** for the CarPlay connection. This is distinct from the rear USB charging ports, which are for charging and are not the CarPlay data connection. After the community software modification has successfully enabled **wired CarPlay**, a wireless CarPlay USB adapter may allow an iPhone to connect to CarPlay over Bluetooth and Wi-Fi instead of being plugged in for every trip.
 
 The adapter itself remains plugged into the Mirai's USB media/data port. It reduces repeated plugging and unplugging of the phone cable; it does not free up or replace the vehicle USB port, and it does not add CarPlay by itself.
 
-**Compatibility is not confirmed for this specific Mirai software modification.** First verify that wired CarPlay works directly through the center-console USB media port. Then obtain written compatibility confirmation from the adapter manufacturer for the exact 2019 Mirai head unit and its modified software before purchasing. A generic wireless CarPlay dongle normally requires an already-working wired CarPlay system. Do not plug it into a charge-only USB socket.
+**Compatibility is not confirmed for this specific Mirai software modification.** First verify that wired CarPlay works directly through the front center-console USB media/data port. Then obtain written compatibility confirmation from the adapter manufacturer for the exact 2019 Mirai head unit and its modified software before purchasing. A generic wireless CarPlay dongle normally requires an already-working wired CarPlay system. Do not plug it into a charge-only USB socket.
