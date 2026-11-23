@@ -49,3 +49,12 @@ The original community discussion refers to two Camry multimedia software packag
 These are package descriptions from the community post, not Mirai-specific Toyota firmware. This repository does not host or redistribute the files. Verify the exact archive names, contents, and head-unit compatibility from the original source before considering any modification.
 
 The community post specifies a **16 GB USB flash drive formatted as FAT32** (not exFAT), with the extracted update files placed at the USB drive's root rather than inside an extra nested folder. Correct formatting and folder placement do **not** make an incompatible package safe. Identify the exact head-unit model ID and software version first. The Toyota bulletin itself lists Camry, Camry Hybrid, and Sienna—not Mirai—and warns that an incorrect procedure can damage the head unit.
+
+
+## Optional wireless CarPlay adapter
+
+The 2019 Mirai Quick Reference Guide identifies a USB media/AUX port for USB audio and separately identifies the console USB charge ports as charge-only. After the community software modification has successfully enabled **wired CarPlay**, a wireless CarPlay USB adapter may allow an iPhone to connect to CarPlay over Bluetooth and Wi-Fi instead of being plugged in for every trip.
+
+The adapter itself remains plugged into the Mirai's USB media/data port. It reduces repeated plugging and unplugging of the phone cable; it does not free up or replace the vehicle USB port, and it does not add CarPlay by itself.
+
+**Compatibility is not confirmed for this specific Mirai software modification.** First verify that wired CarPlay works directly through the center-console USB media port. Then obtain written compatibility confirmation from the adapter manufacturer for the exact 2019 Mirai head unit and its modified software before purchasing. A generic wireless CarPlay dongle normally requires an already-working wired CarPlay system. Do not plug it into a charge-only USB socket.
