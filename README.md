@@ -27,3 +27,13 @@ This is an independent owner resource, not an official Toyota site. Verify equip
 - [2019 Toyota Mirai eBrochure (PDF)](https://www.refresh.tcuv.tms.aws.toyota.com/content/dam/tcuv/sections/brochures/en/mirai/2019_mirai_ebrochure.pdf)
 - [Toyota Owners manuals and resources](https://www.toyota.com/owners/resources/warranty-owners-manuals/)
 - [2019 Mirai Audio & Navigation manual reference](https://www.carmanualsonline.info/toyota-mirai-2019-accessories-audio-navigation-in-english-5/)
+
+
+## Critical warning: unofficial CarPlay modification
+The community-reported Mirai method is **not a Toyota-approved 2019 Mirai retrofit**. The Reddit discussion [“Getting Apple Carplay on 2018 Toyota Mirai (How-To)”](https://www.reddit.com/r/Mirai/comments/1705d2k/) (October 5, 2023) reports using files associated with Toyota T-SB-0057-19 / Camry multimedia packages and claims applicability to 2018–2020 Mirai. That Mirai compatibility claim comes from the Reddit poster, not Toyota.
+
+Toyota T-SB-0057-19 is officially listed for 2018 Camry, Camry Hybrid, and Sienna—not Mirai. The bulletin describes a full multimedia-system reformat and explicitly warns that failure to follow its procedure exactly may damage the head unit. [Official bulletin PDF hosted by NHTSA](https://static.nhtsa.gov/odi/tsbs/2019/MC-10161540-9999.pdf).
+
+**Risk disclosure:** Wrong files, a mismatched head-unit model ID, incorrect USB file layout, power interruption, or incompatible software can cause a frozen unit, boot loop, loss of functions, or a bricked head unit. Recovery may require specialist repair or replacement and may be costly. No success or recovery is guaranteed; warranty/dealer coverage is not guaranteed. Anyone considering the modification does so at their own risk. This repository and its contributors accept no responsibility for damage or costs. This is not legal advice.
+
+The repository owner reports that the modification has worked smoothly on their personal vehicle for more than three years. This is an individual report, not proof of universal compatibility or a guarantee for another vehicle.
