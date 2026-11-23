@@ -58,3 +58,16 @@ Use the **front center-console USB media/data port** for the CarPlay connection.
 The adapter itself remains plugged into the Mirai's USB media/data port. It reduces repeated plugging and unplugging of the phone cable; it does not free up or replace the vehicle USB port, and it does not add CarPlay by itself.
 
 **Compatibility is not confirmed for this specific Mirai software modification.** First verify that wired CarPlay works directly through the front center-console USB media/data port. Then obtain written compatibility confirmation from the adapter manufacturer for the exact 2019 Mirai head unit and its modified software before purchasing. A generic wireless CarPlay dongle normally requires an already-working wired CarPlay system. Do not plug it into a charge-only USB socket.
+
+
+## California hydrogen network links
+
+The website links visitors to established hydrogen-industry and California government sources:
+
+- [H2FCP live station map](https://h2fcp.org/stationmap) — station locations and station-status information for drivers.
+- [H2FCP Resources](https://h2fcp.org/resources) — includes the H2 Stations List. H2FCP's FAQ says this development-stage station list is updated monthly and includes projects in development.
+- [H2FCP News](https://h2fcp.org/news) — hydrogen and fuel-cell news and announcements.
+- [California Air Resources Board hydrogen infrastructure program](https://ww2.arb.ca.gov/our-work/programs/hydrogen-fueling-infrastructure/about) — state policy, funding, station network information, and annual evaluations.
+- [California Energy Commission hydrogen station dashboard](https://www.energy.ca.gov/data-reports/energy-almanac/zero-emission-vehicle-and-infrastructure-statistics-collection/hydrogen) — statewide station counts and planned station data; the CEC says this dashboard is updated quarterly.
+
+**Update cadence:** the linked H2FCP development list is described by H2FCP as monthly. The CEC dashboard is quarterly and CARB evaluations are annual. This repository links to the authoritative sources; the static GitHub Pages site does not itself automatically refresh external agency data.
