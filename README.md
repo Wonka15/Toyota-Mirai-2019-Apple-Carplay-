@@ -47,6 +47,12 @@ The original factory system supports Bluetooth phone/audio and other media input
 
 The repository owner reports that the modification has worked smoothly on their personal vehicle for more than three years. This is one owner's experience—not proof of universal compatibility or a guarantee for another vehicle.
 
+### Credit and source trail
+
+The Mirai-specific discovery and step-by-step adaptation are credited to the original community contributor who published [“Getting Apple Carplay on 2018 Toyota Mirai (How-To)” on r/Mirai](https://www.reddit.com/r/Mirai/comments/1705d2k/) on October 5, 2023. The Reddit username is not visible in the indexed copy available to this guide, so this repository credits the original post rather than guessing an identity.
+
+The Reddit post points readers to a separate download website. A matching resource with the same two package labels is [UpdateIT — “Carplay Update Files”](https://camryupdate.home.blog/2019/08/26/carplay-update-files/). This is a third-party Camry/Lexus resource, not a Toyota Mirai instruction page. We have not independently confirmed that it is the exact destination linked in the Reddit post. Thank you to the original contributor and resource maintainer for documenting the research.
+
 ### What the community post describes
 
 The Reddit post refers to two Camry multimedia software packages:
