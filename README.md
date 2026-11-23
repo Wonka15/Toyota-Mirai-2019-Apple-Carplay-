@@ -37,3 +37,15 @@ Toyota T-SB-0057-19 is officially listed for 2018 Camry, Camry Hybrid, and Sienn
 **Risk disclosure:** Wrong files, a mismatched head-unit model ID, incorrect USB file layout, power interruption, or incompatible software can cause a frozen unit, boot loop, loss of functions, or a bricked head unit. Recovery may require specialist repair or replacement and may be costly. No success or recovery is guaranteed; warranty/dealer coverage is not guaranteed. Anyone considering the modification does so at their own risk. This repository and its contributors accept no responsibility for damage or costs. This is not legal advice.
 
 The repository owner reports that the modification has worked smoothly on their personal vehicle for more than three years. This is an individual report, not proof of universal compatibility or a guarantee for another vehicle.
+
+
+## Community-reported files and USB format
+
+The original community discussion refers to two Camry multimedia software packages:
+
+1. **T-SB-0057-19 — Camry Audio Plus / Premium**
+2. **2018 Camry Premium Audio**
+
+These are package descriptions from the community post, not Mirai-specific Toyota firmware. This repository does not host or redistribute the files. Verify the exact archive names, contents, and head-unit compatibility from the original source before considering any modification.
+
+The community post specifies a **16 GB USB flash drive formatted as FAT32** (not exFAT), with the extracted update files placed at the USB drive's root rather than inside an extra nested folder. Correct formatting and folder placement do **not** make an incompatible package safe. Identify the exact head-unit model ID and software version first. The Toyota bulletin itself lists Camry, Camry Hybrid, and Sienna—not Mirai—and warns that an incorrect procedure can damage the head unit.
