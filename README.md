@@ -98,6 +98,42 @@ Use these external sources for current station information, new projects, permit
 
 **Important:** proposed, permitting, construction, and commissioning are development stages—not confirmation that a station is open and ready to fuel. Check station status before driving. The GitHub Pages site links to these sources; it does not automatically refresh or republish their data.
 
+## Legal, safety, and project disclaimer
+
+This repository is an independent owner-research project. It is **not affiliated with, sponsored by, authorized by, or endorsed by Toyota Motor Corporation, Toyota Motor Sales, or any Toyota dealer**. Toyota, Mirai, Entune, JBL, and other third-party names and marks belong to their respective owners and are used only to identify products, services, and sources. No affiliation or endorsement is implied.
+
+### Informational use only
+
+The website and repository are provided for general informational, historical, and educational purposes. They are not Toyota service instructions, a repair manual, professional mechanical/electrical advice, legal advice, or a substitute for manufacturer documentation or a qualified technician. Information may be incomplete, outdated, or inaccurate. Verify all details against official sources and the exact vehicle and head unit.
+
+### Unofficial modifications carry risk
+
+Any software, firmware, USB update, wiring, hardware, or aftermarket modification discussed here is unofficial unless expressly identified otherwise. Compatibility, functionality, safety, and recovery are not guaranteed. An incorrect procedure may damage equipment, disable vehicle functions, create repair costs, or affect warranty coverage. Do not attempt work while driving. Consult a qualified professional and do not proceed if the exact equipment and procedure cannot be verified.
+
+### No firmware distribution or ownership claim
+
+This project does not host or offer the Toyota/Camry firmware packages discussed in the community post. The repository owner's personal possession of copies does not establish ownership, authenticity, a license, or permission to reproduce, modify, or redistribute them. Do not upload, mirror, link to unauthorized copies, or assume a file is safe or licensed because it is publicly accessible elsewhere. Third-party software, manuals, images, and other materials remain the property of their respective rights holders.
+
+### Attribution and external links
+
+Community reports are attributed to their original public discussion where possible and are identified as user-reported—not Toyota-confirmed. Links to third-party websites are for reference only. This project does not control, verify, sponsor, or endorse external sites, downloads, products, or statements. External pages may change or disappear. Attribution is not permission to reproduce another person's work.
+
+### Warranty and limitation of liability
+
+To the fullest extent permitted by applicable law, the site owner and contributors disclaim warranties regarding this repository, website, and content, including accuracy, completeness, fitness for a particular purpose, and non-infringement. To the fullest extent permitted by law, they are not responsible for losses or damages arising from use of, or reliance on, this project or linked resources. Nothing here is intended to exclude liability or rights that cannot legally be excluded or limited. This wording is not a guarantee against legal claims and has not been reviewed by an attorney.
+
+### Copyright and reuse
+
+Do not assume that content in this repository is free to copy. Unless a specific license or attribution notice says otherwise, third-party material remains under its owner's terms. No permission to redistribute third-party firmware, manuals, images, or software is granted by this project. Check for an explicit license or request permission before reusing original project writing or assets.
+
+### Corrections and rights concerns
+
+If you believe a page contains an error or material that infringes your rights, use GitHub's repository contact options to identify the specific URL or file and explain the concern. Do not post private personal information or confidential material in a public issue. Content may be corrected or removed while a concern is reviewed.
+
+*Last reviewed: November 22, 2026. This is a practical project notice, not a substitute for advice from a California attorney familiar with software, copyright, consumer protection, and vehicle-modification issues.*
+
+---
+
 ## Manuals and primary references
 
 - [2019 Toyota Mirai eBrochure (PDF)](https://www.refresh.tcuv.tms.aws.toyota.com/content/dam/tcuv/sections/brochures/en/mirai/2019_mirai_ebrochure.pdf) — factory equipment and original Entune/JBL description.
